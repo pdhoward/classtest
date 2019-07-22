@@ -1,2 +1,2 @@
 # classtest
-test for my class test
+test for my class test right now
