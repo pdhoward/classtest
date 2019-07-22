@@ -1,3 +1,3 @@
 # classtest
 
-test for my class test after right now.
+This is some text.
